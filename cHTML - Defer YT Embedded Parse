@@ -1,0 +1,4 @@
+<script>
+  var vidDefer = document.getElementById('homepage-yt');
+  vidDefer.setAttribute('src',vidDefer.getAttribute('data-src'));
+</script>
